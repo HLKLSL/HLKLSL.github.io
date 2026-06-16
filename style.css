@@ -22,11 +22,11 @@ header {
     padding: 20px;
 }
 
-/* Überschriften in dunklem Grau */
+/* Überschriften in Grau (#969696) */
 h1,
 h2,
 h3 {
-    color: #969696; /* Mittel-dunkles Grau */
+    color: #969696;
 }
 
 /* Navigation */
@@ -76,7 +76,7 @@ nav a:hover {
 }
 
 .btn:hover {
-    background-color: #14582c; /* dunkleres Grün für Hover */
+    background-color: #14582c; /* dunkleres Grün */
 }
 
 /* Footer */
