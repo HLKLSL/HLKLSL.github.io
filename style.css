@@ -126,3 +126,10 @@ footer {
     width: 100%;
     border-radius: 8px;
 }
+.source-link {
+    display: block;
+    word-wrap: break-word;
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
